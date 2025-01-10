@@ -19,4 +19,4 @@ radioButton.click()
 #CLICK LINK TEXT USING LOCATOR LINK TEXT
 driver.find_element(By.LINK_TEXT, "QA Meetup with Rahul Shetty @Bangalore - Limited Seats! Book Now!").click()
 
-print("ritik")
+print("ritik sharma")
