@@ -1,3 +1,7 @@
+'''
+tabnanny is a Python module used to check for inconsistent indentation in Python files.
+It does not serve any purpose in your script.
+'''
 from tabnanny import check
 from time import thread_time, time
 
